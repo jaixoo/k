@@ -112,13 +112,13 @@ body {
   font-weight: normal;
 }
 .endtext h1 {
-  font-size: 10px;
+  font-size: 50px;
 }
 .endtext h2 {
-  font-size: 10px;
+  font-size: 30px;
 }
 .endtext h3 {
-  font-size: 5px;
+  font-size: 20px;
 }
 
 @keyframes explode {
