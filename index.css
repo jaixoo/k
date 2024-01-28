@@ -16,7 +16,7 @@ body {
 
   width: 600px;
 
-  height: 600px;
+  height: 200px;
 
   object-fit: cover;
 
@@ -62,7 +62,7 @@ h2 {
 
   width: 700px;
 
-  height:650px;
+  height:300px;
 
   object-fit: cover;
 
@@ -110,7 +110,7 @@ h2 {
 
 .coll-3 {
 
-  width: 750px;
+  width: 850px;
 
   height: 300px;
 
